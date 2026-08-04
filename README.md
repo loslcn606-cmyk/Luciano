@@ -100,7 +100,9 @@ Em breve novos projetos serão publicados neste perfil.
 
 Assim que criar seu LinkedIn, adicione aqui:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luciano-oliveira-silva
+
+)
 
 📧 E-mail: seuemail@exemplo.com
 
