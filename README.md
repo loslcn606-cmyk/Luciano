@@ -5,20 +5,22 @@
 </h3>
 
 <p align="center">
-Em transição de carreira da Enfermagem para a Tecnologia, apaixonado por aprender e construir soluções através da programação.
+Em transição de carreira da Enfermagem para a Tecnologia, construindo uma nova jornada através do aprendizado e da programação.
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre) e atualmente estou construindo minha carreira na área de tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre) e atualmente estou construindo minha carreira na área de Tecnologia da Informação.
 
 Após atuar como **Técnico de Enfermagem**, decidi seguir um novo caminho profissional em busca de desafios, crescimento e aprendizado contínuo.
 
-Atualmente direciono meus estudos para o ecossistema **Salesforce**, além de desenvolver conhecimentos em **Java**, **HTML**, **Git** e desenvolvimento web.
+Atualmente direciono meus estudos para o ecossistema **Salesforce**, além de desenvolver conhecimentos em **Java**, **HTML**, **CSS**, **Git** e **GitHub**.
 
-Acredito que minha experiência na área da saúde desenvolveu competências importantes como responsabilidade, organização, comunicação, trabalho em equipe e atenção aos detalhes, habilidades que também fazem diferença no desenvolvimento de software.
+Minha experiência na área da saúde me proporcionou habilidades que levo para a tecnologia, como responsabilidade, organização, comunicação, trabalho em equipe e atenção aos detalhes.
+
+Sou movido pela curiosidade e pelo aprendizado constante. Estou desenvolvendo projetos práticos para evoluir tecnicamente e conquistar minha primeira oportunidade na área de TI.
 
 ---
 
@@ -28,57 +30,54 @@ Acredito que minha experiência na área da saúde desenvolveu competências imp
 
 <img src="https://skillicons.dev/icons?i=java,html,css,git,github,vscode" />
 
-</div>
+<br><br>
 
-<br>
-
-<p align="center">
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-</p>
+
+</div>
 
 ---
 
 ## 🎯 Objetivos
 
-✔ Desenvolver sólidos conhecimentos em Salesforce
-
-✔ Evoluir continuamente como desenvolvedor
-
-✔ Aprender boas práticas de programação
-
-✔ Criar projetos que solucionem problemas reais
-
-✔ Conquistar minha primeira oportunidade na área de tecnologia
+- ☁️ Tornar-me Desenvolvedor Salesforce
+- 💻 Evoluir continuamente como Desenvolvedor
+- 📚 Aprender boas práticas de programação
+- 🚀 Criar projetos que gerem impacto real
+- 🎯 Conquistar minha primeira oportunidade na área de Tecnologia
 
 ---
 
 ## 📂 Projetos
 
-Durante minha formação estou desenvolvendo projetos para colocar em prática meus conhecimentos.
+Atualmente estou desenvolvendo projetos para colocar em prática os conhecimentos adquiridos durante minha formação.
 
-📌 **Projeto Meio Ambiente & Tecnologia**
+### 🌎 Projeto Meio Ambiente & Tecnologia
 
-Desenvolvimento de um site utilizando **HTML** e **Java**, unindo conscientização ambiental e tecnologia como tema principal.
+Desenvolvimento de um site utilizando **HTML** e **Java**, com foco na conscientização ambiental através da tecnologia.
 
-Em breve novos projetos serão publicados neste perfil.
+Em breve este perfil contará com novos projetos desenvolvidos durante minha evolução na área de tecnologia.
 
 ---
 
 ## 💡 Soft Skills
 
-- 🔍 Curioso
-- 📚 Aprendizado contínuo
-- 🤝 Trabalho em equipe
-- 🎯 Comprometido
-- 🧩 Resolução de problemas
-- 📋 Organização
+- 🔎 Curioso
+- 📚 Aprendizado Contínuo
+- 🤝 Trabalho em Equipe
 - 💬 Comunicação
+- 📋 Organização
+- 🎯 Comprometimento
+- 🧩 Resolução de Problemas
+- ⚡ Facilidade para aprender
 
 ---
 
-## 🛠 Tecnologias
+## 🛠️ Tecnologias
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
@@ -89,8 +88,6 @@ Em breve novos projetos serão publicados neste perfil.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
 </p>
 
@@ -104,22 +101,30 @@ Em breve novos projetos serão publicados neste perfil.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:luos1957@hotmail.com">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-📧 E-mail: seuemail@exemplo.com
+---
+
+## 💼 Em busca da minha primeira oportunidade em Tecnologia
+
+Atualmente estou em transição de carreira e busco minha primeira oportunidade na área de TI.
+
+Tenho dedicação, facilidade para aprender, gosto de desafios e estou construindo meu conhecimento através de estudos e projetos práticos.
+
+Acredito que toda grande carreira começa com um primeiro passo — e estou preparado para dar o meu.
 
 ---
 
 <div align="center">
 
-### 🚀 "O conhecimento é construído um passo de cada vez."
+### 🚀 "A evolução acontece quando a curiosidade encontra a dedicação."
 
-Obrigado por visitar meu perfil!
+⭐ Obrigado por visitar meu perfil!
 
-⭐ Seja bem-vindo e acompanhe minha evolução na tecnologia.
+Fique à vontade para acompanhar minha evolução e conhecer meus projetos.
 
 </div>
