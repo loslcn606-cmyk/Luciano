@@ -1,67 +1,117 @@
-# 👋 Olá! Eu sou o Luciano
+<h1 align="center">Olá! 👋 Eu sou o Luciano</h1>
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** — 2º semestre  
-💻 Em transição de carreira da **Enfermagem** para a **Tecnologia da Informação**  
-🌱 Atualmente estudando **Salesforce, Java, HTML, Git e GitHub**
+<h3 align="center">
+🎓 Estudante de Análise e Desenvolvimento de Sistemas • 💻 Futuro Desenvolvedor Salesforce
+</h3>
+
+<p align="center">
+Em transição de carreira da Enfermagem para a Tecnologia, apaixonado por aprender e construir soluções através da programação.
+</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Atuei profissionalmente como Técnico de Enfermagem e decidi iniciar uma nova jornada na área de tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre) e atualmente estou construindo minha carreira na área de tecnologia.
 
-Escolhi essa transição por buscar novos desafios, oportunidades de crescimento e desenvolvimento profissional. Atualmente estou construindo meus conhecimentos em programação e tenho interesse especial no ecossistema Salesforce.
+Após atuar como **Técnico de Enfermagem**, decidi seguir um novo caminho profissional em busca de desafios, crescimento e aprendizado contínuo.
 
-Sou uma pessoa curiosa, interessada e dedicada ao aprendizado contínuo. Acredito que minha experiência na área da saúde contribuiu para o desenvolvimento de habilidades como responsabilidade, organização, trabalho em equipe, comunicação e atenção aos detalhes.
+Atualmente direciono meus estudos para o ecossistema **Salesforce**, além de desenvolver conhecimentos em **Java**, **HTML**, **Git** e desenvolvimento web.
+
+Acredito que minha experiência na área da saúde desenvolveu competências importantes como responsabilidade, organização, comunicação, trabalho em equipe e atenção aos detalhes, habilidades que também fazem diferença no desenvolvimento de software.
 
 ---
 
-## 🛠️ Tecnologias que estou estudando
+## 🌱 Atualmente estudando
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,html,css,git,github,vscode" />
+
+</div>
+
+<br>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+</p>
+
+---
+
+## 🎯 Objetivos
+
+✔ Desenvolver sólidos conhecimentos em Salesforce
+
+✔ Evoluir continuamente como desenvolvedor
+
+✔ Aprender boas práticas de programação
+
+✔ Criar projetos que solucionem problemas reais
+
+✔ Conquistar minha primeira oportunidade na área de tecnologia
 
 ---
 
 ## 📂 Projetos
 
-Um dos meus primeiros projetos foi a criação de um site voltado ao meio ambiente e à tecnologia.
+Durante minha formação estou desenvolvendo projetos para colocar em prática meus conhecimentos.
 
-Esse projeto foi desenvolvido durante meus estudos, utilizando HTML e Java, com o objetivo de colocar em prática os conhecimentos adquiridos.
+📌 **Projeto Meio Ambiente & Tecnologia**
 
-Novos projetos serão adicionados ao perfil conforme minha evolução.
+Desenvolvimento de um site utilizando **HTML** e **Java**, unindo conscientização ambiental e tecnologia como tema principal.
 
----
-
-## 🎯 Objetivos profissionais
-
-- Evoluir como Desenvolvedor Salesforce.
-- Aprimorar meus conhecimentos em programação.
-- Desenvolver projetos práticos.
-- Conquistar minha primeira oportunidade na área de tecnologia.
-- Construir uma carreira sólida em TI.
+Em breve novos projetos serão publicados neste perfil.
 
 ---
 
-## 📚 Atualmente aprendendo
+## 💡 Soft Skills
 
-- Salesforce
-- Java
-- HTML
-- Git
-- GitHub
-- Lógica de programação
+- 🔍 Curioso
+- 📚 Aprendizado contínuo
+- 🤝 Trabalho em equipe
+- 🎯 Comprometido
+- 🧩 Resolução de problemas
+- 📋 Organização
+- 💬 Comunicação
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🛠 Tecnologias
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=loslcn606-cmyk&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=loslcn606-cmyk&layout=compact&theme=tokyonight)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+
+</p>
+
 ---
 
-Obrigado por visitar meu perfil! 🚀
+## 📫 Vamos nos conectar?
+
+Assim que criar seu LinkedIn, adicione aqui:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+
+📧 E-mail: seuemail@exemplo.com
+
+---
+
+<div align="center">
+
+### 🚀 "O conhecimento é construído um passo de cada vez."
+
+Obrigado por visitar meu perfil!
+
+⭐ Seja bem-vindo e acompanhe minha evolução na tecnologia.
+
+</div>
