@@ -59,10 +59,9 @@ Novos projetos serão adicionados ao perfil conforme minha evolução.
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Luciano&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=loslcn606-cmyk&show_icons=true&theme=tokyonight)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano&layout=compact&theme=tokyonight)
-
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=loslcn606-cmyk&layout=compact&theme=tokyonight)
 ---
 
 Obrigado por visitar meu perfil! 🚀
