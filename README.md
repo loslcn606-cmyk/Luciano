@@ -96,13 +96,19 @@ Em breve novos projetos serão publicados neste perfil.
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📫 Vamos nos conectar
 
-Assim que criar seu LinkedIn, adicione aqui:
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luciano-oliveira-silva
+<a href="https://www.linkedin.com/in/luciano-oliveira-silva/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-)
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 📧 E-mail: seuemail@exemplo.com
 
